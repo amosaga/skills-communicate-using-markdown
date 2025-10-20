@@ -22,12 +22,15 @@ This is an example image:
 <!-- Added an image to index.md -->
 
 ## Code example
+```cpp
 #include <iostream>
 using namespace std;
 int main() {
     count << "My first C++ program." << endl;
     return 0;
 }
+```
 <!-- Added example code that I got from our textbook into index.md -->
+
 
 
