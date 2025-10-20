@@ -10,11 +10,12 @@ This is my task list:
 
 # Header 1 is the largest
 ## Header 2  
-### Header 3 is 
-#### Header 4 is
-##### Header 5 is
+### Header 3
+#### Header 4
+##### Header 5
 ###### Header 6 is the smallest
 <!-- Added headers to index.md -->
+
 
 
 
