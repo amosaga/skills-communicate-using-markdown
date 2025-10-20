@@ -5,7 +5,7 @@ This is my task list:
 - Add an image
 - Add a code example
 - Make a task list
-- Merge my pull request
+- Merge your pull request
 <!-- Added task list to index.md -->
 
 # Header 1 is <h1> which is the largest
@@ -15,4 +15,5 @@ This is my task list:
 ##### Header 5 is <h5>
 ###### Header 6 is <h6> which is the smallest
 <!-- Added headers to index.md -->
+
 
