@@ -16,6 +16,10 @@ This is my task list:
 ###### Header 6 is the smallest
 <!-- Added headers to index.md -->
 
+## Add an image
+This is an example image: 
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<!-- Added an image to index.md -->
 
 
 
