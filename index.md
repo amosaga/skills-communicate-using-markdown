@@ -8,12 +8,13 @@ This is my task list:
 - Merge your pull request
 <!-- Added task list to index.md -->
 
-# Header 1 is <h1> which is the largest
-## Header 2 is <h2> 
-### Header 3 is <h3> 
-#### Header 4 is <h4>
-##### Header 5 is <h5>
-###### Header 6 is <h6> which is the smallest
+# Header 1 is the largest
+## Header 2  
+### Header 3 is 
+#### Header 4 is
+##### Header 5 is
+###### Header 6 is the smallest
 <!-- Added headers to index.md -->
+
 
 
